@@ -18,3 +18,7 @@
   }
 }
 ```
+![image](https://raw.githubusercontent.com/happyAgain/happyAgin-CSS/master/inline-block/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-03%20%E4%B8%8A%E5%8D%881.48.01.png)
+![image](https://raw.githubusercontent.com/happyAgain/happyAgin-CSS/master/inline-block/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-03%20%E4%B8%8A%E5%8D%881.48.28.png)
+
+在inline-block元素为达到最大宽度时，他作为一个内联元素被box的text-align:center居中，当inline-block元素换行时，即已达到最大宽度时，又被自己的text-align:left居左
